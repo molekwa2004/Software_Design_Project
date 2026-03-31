@@ -1,0 +1,1 @@
+This project is about creating a quicker and consistent Campus Food Ordering web application that will allow students and vendors to post/order/update food items as they wish.
